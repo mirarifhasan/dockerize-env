@@ -1,15 +1,23 @@
 An effort to gather developers' day-to-day life uses tools in a dockerize way. 
 Surely it helps a lot when a developer switches his PC, he doesn't need to set it up all by himself from the beginning.
 
-#### [Use MySQL with PhpMyAdmin](https://github.com/mirarifhasan/my-docker-compose/tree/master/mysql)
+#### [Use MySQL with PhpMyAdmin](https://github.com/mirarifhasan/dockerize-env/tree/master/mysql)
 ```
 ├── mysql
 │   └── docker-compose.yaml
+│   └── README.md
 ```
 
-#### [Use Redis](https://github.com/mirarifhasan/my-docker-compose/tree/master/redis)
+#### [Use Redis](https://github.com/mirarifhasan/dockerize-env/tree/master/redis)
 ```
 ├── redis
+│   └── README.md
+```
+
+#### [Use RabbitMQ](https://github.com/mirarifhasan/dockerize-env/tree/master/rabbit-mq)
+```
+├── rabbit-mq
+│   └── docker-compose.yaml
 │   └── README.md
 ```
 
