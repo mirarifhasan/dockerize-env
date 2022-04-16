@@ -11,6 +11,6 @@ $ docker-compose up -d
 ## Way to access MongoDB
 * Connection URL `mongodb://127.0.0.1:27017/`
 * Use the connection url in your codebase, Robo3t/Mongo Compass 
-<!-- * Set username `admin`, password `admin` -->
-* Click OK, and play with your MongoDB :sunglasses:
+<!-- * Set username `admin`, password `admin` 
+* Click OK, and play with your MongoDB :sunglasses: -->
 
