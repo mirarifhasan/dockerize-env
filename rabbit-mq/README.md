@@ -10,6 +10,7 @@ $ docker-compose up -d
 
 ## Way to access RabbitMQ
 * Goto [http://localhost:15672](http://localhost:15672)
+* Connection URL `amqp://guest:guest@localhost:5672`
 * Set username `guest`, password `guest`
 * Click OK, and play with your RabbitMQ :sunglasses:
 
