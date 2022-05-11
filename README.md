@@ -28,4 +28,11 @@ Surely it helps a lot when a developer switches his PC, he doesn't need to set i
 │   └── README.md
 ```
 
+#### [Use PostgreSQL](https://github.com/mirarifhasan/dockerize-env/tree/master/postgresql)
+```
+├── postgre-sql
+│   └── docker-compose.yaml
+│   └── README.md
+```
+
 Feel free to contribute :muscle:
