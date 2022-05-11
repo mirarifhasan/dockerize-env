@@ -8,7 +8,7 @@ Run the followed cmd in your favourite terminal
 $ docker-compose up -d
 ```
 
-## Way to access RabbitMQ
+## Way to access PostgreSQL DB
 * Goto [http://localhost:5050](http://localhost:5050)
 * Set email `admin@email.com`, password `admin`
 * Click OK, and play with your pgAdmin4 :sunglasses:
