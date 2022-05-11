@@ -12,4 +12,7 @@ $ docker-compose up -d
 * Goto [http://localhost:5050](http://localhost:5050)
 * Set email `admin@email.com`, password `admin`
 * Click OK, and play with your pgAdmin4 :sunglasses:
-* Now create a server with: `HOST=db | USERNAME=admin | PASSWORD=admin`
+* Now create a server with:
+    - `HOST=db`
+    - `USERNAME=admin`
+    - `PASSWORD=admin`
