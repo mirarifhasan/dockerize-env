@@ -10,9 +10,9 @@ $ docker-compose up -d
 
 ## Way to access PostgreSQL DB
 * Goto [http://localhost:5050](http://localhost:5050)
-* Set email `admin@email.com`, password `admin`
+* Set email `admin@gmail.com`, password `admin`
 * Click OK, and play with your pgAdmin4 :sunglasses:
 * Now create a server with:
     - `HOST=db`
-    - `USERNAME=admin`
+    - `USERNAME=user`
     - `PASSWORD=admin`
